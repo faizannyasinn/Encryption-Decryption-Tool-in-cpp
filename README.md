@@ -1,0 +1,6 @@
+SIMPLE ENCRYPTION TOOL 
+
+⦾  This Simple Encryption Tool in C++ allows users to secure their messages using basic encryption techniques like the Caesar cipher or substitution cipher.                                                                                                                                                                                                                                                                                                                                
+⦾  The program takes user input (plain textm without spaces), applies an encryption algorithm with a specified key, and generates encoded text.                                                                                                                                                                        
+⦾  It also supports decryption, letting users retrieve the original message.                                                                                                                                                                                                                                                                                                                                                            
+⦾  This project helps practice string manipulation, I/O operations, and logic implementation in C++.
